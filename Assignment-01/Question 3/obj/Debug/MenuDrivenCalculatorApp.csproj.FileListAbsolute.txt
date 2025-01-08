@@ -1,0 +1,7 @@
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\bin\Debug\MenuDrivenCalculatorApp.exe.config
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\bin\Debug\MenuDrivenCalculatorApp.exe
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\bin\Debug\MenuDrivenCalculatorApp.pdb
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\obj\Debug\MenuDrivenCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\obj\Debug\MenuDrivenCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\obj\Debug\MenuDrivenCalculatorApp.exe
+C:\Users\j\source\repos\demo01\MenuDrivenCalculatorApp\obj\Debug\MenuDrivenCalculatorApp.pdb

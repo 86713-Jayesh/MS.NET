@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\.NET\\Assignments\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\HRMS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\HRMS\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\WageEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\WageEmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\Supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\EmployeeLib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\EmployeeLib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeLib\\Date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:35:04.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\HRMS\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HRMS\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\HRMS\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "HRMS\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:34:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WageEmp.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\WageEmp.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\WageEmp.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\WageEmp.cs",
+              "RelativeToolTip": "EmployeeLib\\WageEmp.cs",
+              "ViewState": "AgIAADEAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:34:45.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Supervisor.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Supervisor.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Supervisor.cs",
+              "RelativeToolTip": "EmployeeLib\\Supervisor.cs",
+              "ViewState": "AgIAACIAAAAAMzMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:34:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Person.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Person.cs",
+              "RelativeToolTip": "EmployeeLib\\Person.cs",
+              "ViewState": "AgIAAF4AAAAANjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:33:35.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Manager.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Manager.cs",
+              "RelativeToolTip": "EmployeeLib\\Manager.cs",
+              "ViewState": "AgIAACYAAAAAMzMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:33:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeLib.csproj",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\EmployeeLib.csproj",
+              "RelativeDocumentMoniker": "EmployeeLib\\EmployeeLib.csproj",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\EmployeeLib.csproj",
+              "RelativeToolTip": "EmployeeLib\\EmployeeLib.csproj",
+              "ViewState": "AgIAAC0AAACAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T16:33:27.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Employee.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Employee.cs",
+              "RelativeToolTip": "EmployeeLib\\Employee.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:33:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Date.cs",
+              "DocumentMoniker": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Date.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Date.cs",
+              "ToolTip": "J:\\.NET\\Assignments\\Assignment3\\EmployeeLib\\Date.cs",
+              "RelativeToolTip": "EmployeeLib\\Date.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAABQPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:32:56.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
